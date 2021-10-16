@@ -3,7 +3,9 @@ RU/ru
 
 I'm a 19 year old slacker)
 
-~
+Java < C# < JS
+
+хочу donat. ┌( ͝° ͜ʖ͡°)=ε/̵͇̿/’̿’̿ ̿
 
 ![](httpstps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrMarL&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrMarL&theme=nord_dark)
