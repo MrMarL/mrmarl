@@ -1,7 +1,7 @@
 ### Hi there 👋
 RU/ru
 
-I'm a 19 year old slacker)
+I'm a 20 year old slacker)
 
 Java < C# < JS
 
